@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Open Source Contributions
+
+![Open Source Contributions](./contributions.svg)
+
 <!--
 **h2h2h/h2h2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
