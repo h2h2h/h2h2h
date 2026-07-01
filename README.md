@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Open Source Contributions
 
 ![Open Source Contributions](./contributions.svg)
