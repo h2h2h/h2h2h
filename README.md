@@ -1,4 +1,4 @@
-![Open Source Contributions](./contributions.svg)
+<img src="./contributions.svg" alt="Open Source Contributions" width="100%">
 
 <!--
 **h2h2h/h2h2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
